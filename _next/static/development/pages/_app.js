@@ -10431,7 +10431,7 @@ function (_App) {
         openGraph: {
           type: 'website',
           locale: 'vi_VN',
-          url: 'https://fatbuta.github.io/',
+          url: 'https://bdslamdong.github.io/',
           site_name: 'Ruby - Bất động sản, đất nền Lâm Đồng, Đức Trọng, Đà Lạt',
           image: 'https://drive.google.com/open?id=1gJxr8EQCs0aQP-dg0t79V1pe96iDg8Uh'
         },

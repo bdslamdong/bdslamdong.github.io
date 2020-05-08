@@ -8134,7 +8134,7 @@ module.exports = "/_next/static/images/faq-bg-07db6863279ef3d9bd247f5f0914db21.j
 /*! no static exports found */
 /***/ (function(module, exports) {
 
-module.exports = "/_next/static/images/logo-d88e9b49c834eb7a7a0cfd2fc258c08e.png";
+module.exports = "/_next/static/images/logo-47451d70fd0712fdb39556b43bbc7755.png";
 
 /***/ }),
 

@@ -980,7 +980,14 @@ function (_Component) {
           lineNumber: 11
         },
         __self: this
-      }, "C\xE1m \u01A1n b\u1EA1n \u0111\xE3 v\xE0o th\u0103m trang web c\u1EE7a ch\xFAng t\xF4i, website tuy\u1EC3n d\u1EE5ng tr\xEAn m\u1EA1ng l\u1EDBn nh\u1EA5t t\u1EA1i Vi\u1EC7t Nam hi\u1EC7n nay. B\u1EA1n c\xF3 th\u1EC3 li\xEAn h\u1EC7 v\u1EDBi ch\xFAng t\xF4i theo m\u1ED9t trong nh\u1EEFng c\xE1ch sau.")), __jsx("div", {
+      }, "C\xE1m \u01A1n b\u1EA1n \u0111\xE3 v\xE0o th\u0103m trang ", __jsx("a", {
+        href: "https://bdslamdong.github.io",
+        __source: {
+          fileName: _jsxFileName,
+          lineNumber: 11
+        },
+        __self: this
+      }, "bdslamdong.github.io"), " c\u1EE7a ch\xFAng t\xF4i, website b\u1EA5t \u0111\u1ED9ng s\u1EA3n l\u1EDBn nh\u1EA5t t\u1EA1i L\xE2m \u0110\u1ED3ng hi\u1EC7n nay. B\u1EA1n c\xF3 th\u1EC3 li\xEAn h\u1EC7 v\u1EDBi ch\xFAng t\xF4i theo m\u1ED9t trong nh\u1EEFng c\xE1ch sau.")), __jsx("div", {
         className: "row",
         __source: {
           fileName: _jsxFileName,
@@ -1014,7 +1021,7 @@ function (_Component) {
           lineNumber: 18
         },
         __self: this
-      }, "Ninh Gia - \u0110\u1EE9c Tr\u1ECDng - L\xE2m \u0110\u1ED3ng"))), __jsx("div", {
+      }, "S\u1ED1 18.Quang Trung,P.9, Tp.\u0110\xE0 L\u1EA1t"))), __jsx("div", {
         className: "col-lg-3 col-md-6",
         __source: {
           fileName: _jsxFileName,
@@ -1047,7 +1054,7 @@ function (_Component) {
           lineNumber: 26
         },
         __self: this
-      }, "nhthinh1990@gmail.com"))), __jsx("div", {
+      }, "ngocnthlethanh@gmail.com"))), __jsx("div", {
         className: "col-lg-3 col-md-6",
         __source: {
           fileName: _jsxFileName,
@@ -1074,13 +1081,13 @@ function (_Component) {
           lineNumber: 33
         },
         __self: this
-      }, "(+84) 987 008 357"), __jsx("p", {
+      }, "0987 008 357"), __jsx("p", {
         __source: {
           fileName: _jsxFileName,
           lineNumber: 34
         },
         __self: this
-      }, "(+84) 398 275 975"))), __jsx("div", {
+      }, "(+84) 987 008 357"))), __jsx("div", {
         className: "col-lg-3 col-md-6",
         __source: {
           fileName: _jsxFileName,
@@ -1107,13 +1114,13 @@ function (_Component) {
           lineNumber: 41
         },
         __self: this
-      }, "617-241-60055"), __jsx("p", {
+      }, "0987 008 357"), __jsx("p", {
         __source: {
           fileName: _jsxFileName,
           lineNumber: 42
         },
         __self: this
-      }, "817-345-56756"))))));
+      }, "(+84) 987 008 357"))))));
     }
   }]);
 
@@ -2867,7 +2874,13 @@ function (_Component) {
           lineNumber: 14
         },
         __self: this
-      }, __jsx("div", {
+      }, __jsx("button", {
+        style: {
+          borderWidth: 0
+        },
+        onClick: function onClick() {
+          return window.location.href = '/dat-nen-phu-hoi/';
+        },
         className: "col-lg-4 col-md-6",
         __source: {
           fileName: _jsxFileName,
@@ -2929,7 +2942,13 @@ function (_Component) {
           lineNumber: 27
         },
         __self: this
-      }, "D\u1EF1 \xE1n \u0111\u1EA5t n\u1EC1n t\u1EA1i x\xE3 Ph\xFA H\u1ED9i, huy\u1EC7n \u0110\u1EE9c Tr\u1ECDng.")))), __jsx("div", {
+      }, "D\u1EF1 \xE1n \u0111\u1EA5t n\u1EC1n t\u1EA1i x\xE3 Ph\xFA H\u1ED9i, huy\u1EC7n \u0110\u1EE9c Tr\u1ECDng.")))), __jsx("button", {
+        style: {
+          borderWidth: 0
+        },
+        onClick: function onClick() {
+          return window.location.href = '/dat-le-nha-dan/';
+        },
         className: "col-lg-4 col-md-6",
         __source: {
           fileName: _jsxFileName,
@@ -2985,13 +3004,13 @@ function (_Component) {
           lineNumber: 43
         },
         __self: this
-      }, "\u0110\u1EA5t n\u1EC1n Li\xEAn Ngh\u0129a"), __jsx("p", {
+      }, "\u0110\u1EA5t l\u1EBB nh\xE0 d\xE2n"), __jsx("p", {
         __source: {
           fileName: _jsxFileName,
           lineNumber: 44
         },
         __self: this
-      }, "\u0110\u1EA5t n\u1EC1n v\xE0 nh\xE0 \u1EDF t\u1EA1i th\u1ECB tr\u1EA5n Li\xEAn Ngh\u0129a huy\u1EC7n \u0110\u1EE9c Tr\u1ECDng.")))), __jsx("div", {
+      }, "C\xE1c s\u1EA3n ph\u1EA9m nh\xE0 \u0111\u1EA5t \u0111\u01A1n l\u1EBB k\xFD g\u1EEDi t\u1EEB ng\u01B0\u1EDDi d\xE2n.")))), __jsx("div", {
         className: "col-lg-4 col-md-6",
         __source: {
           fileName: _jsxFileName,
@@ -3047,13 +3066,13 @@ function (_Component) {
           lineNumber: 60
         },
         __self: this
-      }, "\u0110\u1EA5t n\u1EC1n \u0110\xE0 L\u1EA1t"), __jsx("p", {
+      }, "D\u1EF1 \xE1n"), __jsx("p", {
         __source: {
           fileName: _jsxFileName,
           lineNumber: 61
         },
         __self: this
-      }, "\u0110\u1EA5t n\u1EC1n v\xE0 nh\xE0 \u1EDF t\u1EA1i TP \u0110\xE0 L\u1EA1t")))))));
+      }, "C\xE1c d\u1EF1 \xE1n \u0111\u1EA5t n\u1EC1n, nh\xE0 ph\u1ED1, c\u0103n h\u1ED9 L\xE2m \u0110\u1ED3ng")))))));
     }
   }]);
 
@@ -5545,7 +5564,7 @@ function (_Component) {
           lineNumber: 63
         },
         __self: this
-      }, "Steven Smitn"), __jsx("span", {
+      }, "Fatbuta"), __jsx("span", {
         className: "post",
         __source: {
           fileName: _jsxFileName,
@@ -5978,163 +5997,6 @@ function (_Component) {
         __source: {
           fileName: _jsxFileName,
           lineNumber: 152
-        },
-        __self: this
-      })))))))), __jsx("div", {
-        className: "team-box",
-        __source: {
-          fileName: _jsxFileName,
-          lineNumber: 160
-        },
-        __self: this
-      }, __jsx("img", {
-        src: __webpack_require__(/*! ../../images/team/team4.jpg */ "./images/team/team4.jpg"),
-        alt: "team-image",
-        __source: {
-          fileName: _jsxFileName,
-          lineNumber: 161
-        },
-        __self: this
-      }), __jsx("div", {
-        className: "box-content",
-        __source: {
-          fileName: _jsxFileName,
-          lineNumber: 163
-        },
-        __self: this
-      }, __jsx("div", {
-        className: "box-inner-content",
-        __source: {
-          fileName: _jsxFileName,
-          lineNumber: 164
-        },
-        __self: this
-      }, __jsx("h3", {
-        className: "title",
-        __source: {
-          fileName: _jsxFileName,
-          lineNumber: 165
-        },
-        __self: this
-      }, "Eva Lucy"), __jsx("span", {
-        className: "post",
-        __source: {
-          fileName: _jsxFileName,
-          lineNumber: 166
-        },
-        __self: this
-      }, "Web Designer"), __jsx("ul", {
-        __source: {
-          fileName: _jsxFileName,
-          lineNumber: 168
-        },
-        __self: this
-      }, __jsx("li", {
-        __source: {
-          fileName: _jsxFileName,
-          lineNumber: 169
-        },
-        __self: this
-      }, __jsx(next_link__WEBPACK_IMPORTED_MODULE_10___default.a, {
-        href: "#",
-        __source: {
-          fileName: _jsxFileName,
-          lineNumber: 170
-        },
-        __self: this
-      }, __jsx("a", {
-        target: "_blank",
-        __source: {
-          fileName: _jsxFileName,
-          lineNumber: 171
-        },
-        __self: this
-      }, __jsx("i", {
-        className: "icofont-facebook",
-        __source: {
-          fileName: _jsxFileName,
-          lineNumber: 171
-        },
-        __self: this
-      })))), __jsx("li", {
-        __source: {
-          fileName: _jsxFileName,
-          lineNumber: 174
-        },
-        __self: this
-      }, __jsx(next_link__WEBPACK_IMPORTED_MODULE_10___default.a, {
-        href: "#",
-        __source: {
-          fileName: _jsxFileName,
-          lineNumber: 175
-        },
-        __self: this
-      }, __jsx("a", {
-        target: "_blank",
-        __source: {
-          fileName: _jsxFileName,
-          lineNumber: 176
-        },
-        __self: this
-      }, __jsx("i", {
-        className: "icofont-linkedin",
-        __source: {
-          fileName: _jsxFileName,
-          lineNumber: 176
-        },
-        __self: this
-      })))), __jsx("li", {
-        __source: {
-          fileName: _jsxFileName,
-          lineNumber: 179
-        },
-        __self: this
-      }, __jsx(next_link__WEBPACK_IMPORTED_MODULE_10___default.a, {
-        href: "#",
-        __source: {
-          fileName: _jsxFileName,
-          lineNumber: 180
-        },
-        __self: this
-      }, __jsx("a", {
-        target: "_blank",
-        __source: {
-          fileName: _jsxFileName,
-          lineNumber: 181
-        },
-        __self: this
-      }, __jsx("i", {
-        className: "icofont-twitter",
-        __source: {
-          fileName: _jsxFileName,
-          lineNumber: 181
-        },
-        __self: this
-      })))), __jsx("li", {
-        __source: {
-          fileName: _jsxFileName,
-          lineNumber: 184
-        },
-        __self: this
-      }, __jsx(next_link__WEBPACK_IMPORTED_MODULE_10___default.a, {
-        href: "#",
-        __source: {
-          fileName: _jsxFileName,
-          lineNumber: 185
-        },
-        __self: this
-      }, __jsx("a", {
-        target: "_blank",
-        __source: {
-          fileName: _jsxFileName,
-          lineNumber: 186
-        },
-        __self: this
-      }, __jsx("i", {
-        className: "icofont-instagram",
-        __source: {
-          fileName: _jsxFileName,
-          lineNumber: 186
         },
         __self: this
       }))))))))) : ''));
@@ -7326,6 +7188,7 @@ function (_Component) {
         },
         __self: this
       }, __jsx(next_link__WEBPACK_IMPORTED_MODULE_6___default.a, {
+        prefetch: false,
         href: "https://www.facebook.com/batdongsannhadatcanho",
         __source: {
           fileName: _jsxFileName,
@@ -7530,8 +7393,9 @@ function (_Component) {
         mainNavLinks.forEach(function (link) {
           if (link.hash) {
             var section = document.querySelector(link.hash);
+            if (!section) return;
 
-            if (section.offsetTop <= fromTop && section.offsetTop + section.offsetHeight > fromTop) {
+            if (section.offsetTop <= fromTop + 200 && section.offsetTop + section.offsetHeight > fromTop + 200) {
               link.classList.add("active");
             } else {
               link.classList.remove("active");
@@ -7898,7 +7762,7 @@ function (_Component) {
         },
         __self: this
       }, __jsx(next_link__WEBPACK_IMPORTED_MODULE_8___default.a, {
-        href: "#contact",
+        href: "#services",
         __source: {
           fileName: _jsxFileName,
           lineNumber: 29
@@ -8295,17 +8159,6 @@ module.exports = "/_next/static/images/team2-6289431a11a3f6d8022a2d7c20ac41b9.jp
 /***/ "./images/team/team3.jpg":
 /*!*******************************!*\
   !*** ./images/team/team3.jpg ***!
-  \*******************************/
-/*! no static exports found */
-/***/ (function(module, exports) {
-
-module.exports = "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQEAYABgAAD//gA+Q1JFQVRPUjogZ2QtanBlZyB2MS4wICh1c2luZyBJSkcgSlBFRyB2NjIpLCBkZWZhdWx0IHF1YWxpdHkK/9sAQwAIBgYHBgUIBwcHCQkICgwUDQwLCwwZEhMPFB0aHx4dGhwcICQuJyAiLCMcHCg3KSwwMTQ0NB8nOT04MjwuMzQy/9sAQwEJCQkMCwwYDQ0YMiEcITIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIy/8AAEQgCWAH+AwEiAAIRAQMRAf/EAB8AAAEFAQEBAQEBAAAAAAAAAAABAgMEBQYHCAkKC//EALUQAAIBAwMCBAMFBQQEAAABfQECAwAEEQUSITFBBhNRYQcicRQygZGhCCNCscEVUtHwJDNicoIJChYXGBkaJSYnKCkqNDU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6g4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2drh4uPk5ebn6Onq8fLz9PX29/j5+v/EAB8BAAMBAQEBAQEBAQEAAAAAAAABAgMEBQYHCAkKC//EALURAAIBAgQEAwQHBQQEAAECdwABAgMRBAUhMQYSQVEHYXETIjKBCBRCkaGxwQkjM1LwFWJy0QoWJDThJfEXGBkaJicoKSo1Njc4OTpDREVGR0hJSlNUVVZXWFlaY2RlZmdoaWpzdHV2d3h5eoKDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uLj5OXm5+jp6vLz9PX29/j5+v/aAAwDAQACEQMRAD8A9MooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKZK/lwu/91SawP7euv8AnnD+R/xoA6Kiud/t66/55w/kf8a6BDuRWPUgGgB1FRXMy29u8rEAKOPc1V0i5lurRnmfcwcgHAHGB6UAX6KKy9S1U20nkQANJ3J7f/XoA1KK55dVv4HDToSp7Mm3P0rdgmS4hSWM5VhmgCSiiigAooooAKKKKACiori4S1gaWQ8Dt6n0rCbVb+4ZjAhCjsibsfWgDoqKytN1RriTyJwBL2I4z7Vpu6xozucKoySaAHUVz8ur3dxKVtUIUdMLuP41PYatI84gugAxOA2Mc+hoA2aKKxr7V5EnMFqAWBwWxnn0AoA2aK5+LV7u3lAukJU9QV2nHtW+jK6B1OVYZBHegBaKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKAKuots06c/7BH58VFo6bdNjP8AeJP60msvt01x/eIH65/pWVDZX19AmGCwqMKGOB+VAHS02QMY3CfewcfWudSS80idRJkxntnIYe1dEjrIiupyrDINAHPXNjqLxtJOxZUBY5fOMe1X9B/48X/66n+Qq7e/8eNx/wBcm/lVLQf+PF/+up/kKANNmCqWPQDNYejx/abua6kGSDxn1Na92cWc59I2/lVDQR/oUh9ZCP0FAGhcwLc27xMOGHB9D61maDIQs0DdVOQP51sViaX8us3a9vm/9CoA26gu52trdpVj8zbyRnHFT0hAYEEZB4IoAq2F8t9EzBdjKcFc5pNQ1BbFU+TezHhc449ayRnSNVwc+S3/AKCf8KdAp1XVWlYEwp2Pp2H40AbdvI00CSPHsLDO3OcVLRRQBha5I0lxDbKffHueB/n3rYt4EtoEiQcKPzPrWDqMoj1oyEZEZU4/AGl+wahfjz5GA3cgO2PyHagDSuNOMmoR3UTqhUgsMdcf/WpmuSmOxCDrIwB+nWqlhd3FpeC0uS20nA3HO09vwqTxAfltx7t/SgC/ptutvZRgD5mG5j7mqWu248uO5UYYHaSP0rXA2qAOwxVLWBnTJfYr/MUAPN1/xK/tI6+Vu/HH+NUtCtx5b3LDLE7QT+tJuP8AwjGfbH/j+Kt6OMaZEfUsf1NAD9St1uLKQY+ZRuU+4qDRJfMsdhPMbEfh1rRYZUj1FY3h8/LcD3X+tAG1RRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQA1whGH2kejUoAAAHTtis3W7cy2iyKMmM5P0PX+lR2WswC3RJyVdRjOMg0AT60itpzseqkEfnipNKJbTISfQj9TWXqOofbyltbKxUt1xyxrbtofs9tHFnO1QM0ANvf+PG4/65N/KqWg/8eL/9dT/IVdvf+PG4/wCuTfyqloP/AB4v/wBdT/IUAaFwu+2lUd0I/SszQHBt5U7h8/mP/rVr1zyyHSNUkDKTE/p6dj+FAHQ1iaOfM1G6lHQ5/U1JeazB9nZbdi0jDGcY21Lots0NmXYYaU5/DtQBpUUVHcTLbwPK/RRn60AY+uyq8kUCrukHOR1Ge1S6DMhhkhwA4O76iodJhe7vJLybnB4/3v8A61R3qNpmprcRj5HO7H8xQB0NFNjkWWNZEOVYZBp1AHO6hGG1xVf7rsmfpwK6KsbXLdv3d0n8HDEdvQ1NBrds8IMxKSAcjBOfpQBW14BJ7eRfv4P6EY/nT/EC5igb0Yj/AD+VQeY2raqhVSIY/X0H+NaupWxurJ0UZcfMo9xQBYicSQo46MoIqlrThdNYH+JgB/P+lVNN1aKK3ENwSpThWxnIqG+ujql1Fb24OwHgnufWgC35Z/4Rvb/sbv1zU2iuG01QP4WIP8/61d8pfI8n+Hbt/DGKwbK6Ol3UtvcA7CeSOx9aAN6VxHC7noqkmsnw+uIp29WA/wA/nTdS1aKW3MNuSxfhmxjArQ023NtYojDDn5mHuaALdFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFAARkYPSs6XRbSR9wDpnsh4/WtGigCrbafb2h3Rp8395uTVqiigBroskbIwyrAgj2plvbRWsZSFNqk5IyTz+NS0UAFQXNpDdoFmTOOhHUVPRQBnxaNaRPuId8cgOeK0KKKACop7eK5QJMu5Qc4yR/KpaKAI4YY7eIRxLtQdqSe2hukCTJuUHI5xUtFAEcMMdvEI4htQdBkn+dSUUUAIyhlKsAQeCD3rPfRLR33DensrcfrWjRQBFb20NrHshQKO/qaloooAo3Gk2tw5cqyMepQ4zUtrY29nkxL8x6sTk1ZooAKrXVjb3mDKvzDowODVmigCjb6Ta27hwrOw6FznFXqKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAqu90EeQGKQrGcM4xgcA+ue/pViqv2VpJZ97uI3cHYMYYbQPTPagCfzY/M8veu/+7nn8qcGU9GB5xwe9VPJk3eX5X/LbzPNyOmc/XPamyQTee7oPlQ+ZGM4yxxkfof++qALbSxqm9pFC5xknjNDSxooZnVVPQk4BqrJbSKluULExqQwTbkk45+bj1/OnLbny7ZSpISQswYgkcN6cdSOlAFjzosqPMTL8r8w+b6VHc3CwQyHegkCFlVj1wPSoJ7aRppceYVlx9woMcY5yM+/FF1DKy3KLB5nmj5WyBjjGOfz/GgC1cSGK2lkXBKIWGfYUqzRMGKyIQv3iGHH1ptyjSWkyKMsyMAPfFRxI5mDtCIlWPZjIOeR6dhj9aALG5fl+YfN05600yASrHzllLD8Mf41Ws0JZmJzHGSkX0z/AJH4VJNB5tzGx3BFRgSrleSVx0PsaAHvNtkZFjd2UAkLjoc+pHpUf20C2+0GGUJhSvTLZ6Ywfelhg8q5kYbijIoBZy3ILZ6n3FNEMgsIItvzp5e4Z6YIz/KgCSW5ji8rOW81gF2+/f6cinpIHaRRnKNtP5A/1qsbMoMq27DpsGMbFDgkf59BT1aSKaf/AEeRw7hgVK/3QO5HpQBNJIsSbmyecAAZJNIku4MXjePbyd+P6GmSrI5DKgzE+5QT98Ywfp1P5UpD3EMsbxtEGUqMkE8j2oARLpWZQY5FVuFZhwf8PxpY7mOQSkZXymIbd7d/pwajPnzbI3h2BWDM24EHBzx37U0WZcZZtuXfeMZ3qXJA/wA+poAsQTLcQiRQwBJGG68HFSVFboyRkMMHe5/AsSKloAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACkZQylWAIIwQe9FFAAqhVCqAAOgA6UtFFABRRRQAUUUUAFFFFABRRRQAUUUUAf//Z"
-
-/***/ }),
-
-/***/ "./images/team/team4.jpg":
-/*!*******************************!*\
-  !*** ./images/team/team4.jpg ***!
   \*******************************/
 /*! no static exports found */
 /***/ (function(module, exports) {
@@ -36807,7 +36660,7 @@ function (_Component) {
 
 /***/ }),
 
-/***/ 11:
+/***/ 12:
 /*!******************************************************************************************************************************************************************************************************************************!*\
   !*** multi next-client-pages-loader?page=%2F&absolutePagePath=%2FUsers%2Fthinhtran%2FDocuments%2Fprivate%2Fwork%2Freal_estate%2Fsrc%2Fziran-react-next-multi-purpose-landing-page-template%2Fziran-react%2Fpages%2Findex.js ***!
   \******************************************************************************************************************************************************************************************************************************/
@@ -36830,5 +36683,5 @@ module.exports = dll_ef0ff7c60362f24a921f;
 
 /***/ })
 
-},[[11,"static/runtime/webpack.js","styles"]]]);
+},[[12,"static/runtime/webpack.js","styles"]]]);
 //# sourceMappingURL=index.js.map

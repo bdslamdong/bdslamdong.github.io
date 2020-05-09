@@ -755,6 +755,14 @@ Main Banner CSS
   background-image: url(/_next/static/images/main-banner8-362d00c40915b3bf09be90ec8a306045.jpg);
 }
 
+.item-bg-dat-le-nha-dan1 {
+  background-image: url(/_next/static/images/banner-793f35cbbc4d79f14ebc024ae79e78ba.jpg);
+}
+
+.item-bg-dat-le-nha-dan2 {
+  background-image: url(/_next/static/images/banner-6814609c1403d29e918574aaf8599819.jpg);
+}
+
 .main-banner-content {
   max-width: 700px;
   position: relative;
